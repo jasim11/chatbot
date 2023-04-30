@@ -4,12 +4,12 @@ import { ThemeProvider } from "styled-components";
 
 const theme = {
   background: "#f5f8fb",
-  headerBgColor: "#103ec9",
+  headerBgColor: "#4e504f",
   headerFontColor: "#fff",
   headerFontSize: "20px",
   botBubbleColor: "#fff",
   botFontColor: "#000000",
-  userBubbleColor: "#0cb3c9",
+  userBubbleColor: "#8c8c8c",
   userFontColor: "#fff",
 };
 
